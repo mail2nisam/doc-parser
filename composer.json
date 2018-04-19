@@ -2,7 +2,7 @@
     "name": "nisam/doc-parser",
     "description": "Edit word document",
     "keywords": ["word", "composer", "package","document","edit"],
-    "license": "DBAD",
+    "license": "MIT",
     "authors": [
         {
             "name": "Nisam",

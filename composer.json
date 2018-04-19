@@ -1,0 +1,24 @@
+{
+    "name": "nisam/doc-parser",
+    "description": "Edit word document",
+    "keywords": ["word", "composer", "package","document","edit"],
+    "license": "DBAD",
+    "authors": [
+        {
+            "name": "Nisam",
+            "email": "mail2nisam@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=7.0"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "6.2.*"
+    },
+	"autoload": {
+        "psr-4": {
+            "Document\\Parser\\": "src/"
+        }
+    }
+}

@@ -20,5 +20,7 @@
         "psr-4": {
             "Document\\Parser\\": "src/"
         }
-    }
+    },
+    "minimum-stability" : "stable",
+    "prefer-stable" : true
 }

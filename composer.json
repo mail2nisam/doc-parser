@@ -1,6 +1,6 @@
 {
     "name": "nisam/doc-parser",
-    "description": "Edit word document",
+    "description": "Find and replace text in a word document file. Also can generate new files from templates",
     "keywords": ["word", "composer", "package","document","edit"],
     "license": "MIT",
     "authors": [
